@@ -1,1 +1,3 @@
-My web app adalah sebuah web yang beroprasi seperti sebuah aplikasi
+MyWebApp
+adalah sebuah weh yang berfungsi mirip dengan sebuah aplikasi
+yang mudah digunakan
